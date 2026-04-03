@@ -6,10 +6,10 @@ A data-driven approach to evaluating program outcomes, estimating future perform
 
 Rebecca Business School (RBS) is an online startup disrupting traditional postgraduate education. As a newly hired Recruitment Analyst, you have access to data from RBS's first graduating MBA cohort, including:
 
-- **Application details** — undergraduate degree, grade, and work experience
-- **Program performance** — MBA final grade
-- **Employability scores** — measured before and after the program
-- **Employment outcomes** — placement status and annual salary 2 months post-graduation
+- **Application details**  undergraduate degree, grade, and work experience
+- **Program performance**  MBA final grade
+- **Employability scores**  measured before and after the program
+- **Employment outcomes**  placement status and annual salary 2 months post-graduation
 
 The goal is to leverage statistics to evaluate this class, predict the performance of future cohorts, and propose data-driven recruitment changes to improve graduate outcomes.
 
