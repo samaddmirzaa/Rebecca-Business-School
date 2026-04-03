@@ -15,21 +15,6 @@ The goal is to leverage statistics to evaluate this class, predict the performan
 
 
 
-
-
-
-| `Student ID` | Unique student identifier |
-| `Undergrad Degree` | Field of undergraduate study (e.g. Business, Engineering, Computer Science) |
-| `Undergrad Grade` | Undergraduate final grade (%) |
-| `MBA Grade` | MBA program final grade (%) |
-| `Work Experience` | Whether the student had prior work experience (Yes/No) |
-| `Employability (Before)` | Employability score prior to the MBA |
-| `Employability (After)` | Employability score after completing the MBA |
-| `Status` | Employment status 2 months after graduation (Placed / Not Placed) |
-| `Annual Salary` | Annual salary in USD (for placed graduates only) |
-
----
-
 ## 🔬 Analysis Sections
 
 The workbook is structured as a full statistics curriculum applied to real RBS data, organized into five major areas:
@@ -85,6 +70,3 @@ Predict outcomes using linear models.
 
 All Done in Microsoft Excel
 
----
-
-*© 2022 Rebecca Business School LLC*
